@@ -6,7 +6,7 @@ This project contains a UI with a function to generate a random password with pa
 
 ## How To Use
 
-- open link https://raymondspartz.github.io/challenge-03/
+- open link https://raymondspartz.github.io/random-password-generator/
 - click generate password
 - answer each window prompt
 - click OK! when finished

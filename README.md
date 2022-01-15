@@ -6,7 +6,7 @@ This project contains a UI with a function to generate a random password with pa
 
 ## How To Use
 
-- open link
+- open link https://raymondspartz.github.io/challenge-03/
 - click generate password
 - answer each window prompt
 - click OK! when finished
@@ -28,4 +28,4 @@ Here is the accepted format to be used in the prompt
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/76711623/149641157-59c5bb68-a5cc-4215-9aab-13e384fb1855.png)

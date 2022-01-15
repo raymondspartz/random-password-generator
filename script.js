@@ -31,18 +31,6 @@ var characterPrompt = function (passwordLength) {
 };
 ////////////////////////////////////////////////////////////////////////////
 
-// this is a confirmation prompt of the user's selections.
-var promptConfirm = function (characterType, passwordLength) {
-  var promptConfirm = window.confirm(
-    "Your password is " +
-      passwordLength +
-      " characters long, with " +
-      characterType +
-      " as the character type(s)"
-  );
-};
-//////////////////////////////////////////////////////////////////////////
-
 // confirms characters are in the array
 var characterCheck = function (characterType, passwordLength) {
   if (characterType.search(",") >= 0) {
@@ -75,6 +63,18 @@ var characterCheck = function (characterType, passwordLength) {
   }
 };
 //////////////////////////////////////////////////////////////////////////////
+
+// this is a confirmation prompt of the user's selections.
+var promptConfirm = function (characterType, passwordLength) {
+  var promptConfirm = window.confirm(
+    "Your password is " +
+      passwordLength +
+      " characters long, with " +
+      characterType +
+      " as the character type(s)"
+  );
+};
+//////////////////////////////////////////////////////////////////////////
 
 // this calls the global functions to generate the password
 var generatePassword = function () {

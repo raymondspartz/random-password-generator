@@ -28,4 +28,6 @@ Here is the accepted format to be used in the prompt
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/76711623/149641157-59c5bb68-a5cc-4215-9aab-13e384fb1855.png)
+![image](https://user-images.githubusercontent.com/76711623/149641358-e11d6406-e50a-4f18-b1bb-60a51a1c683e.png)
+
+![image](https://user-images.githubusercontent.com/76711623/149641346-417d21ff-6d2e-4311-96b4-0300a3072573.png)

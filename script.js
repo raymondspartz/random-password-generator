@@ -40,12 +40,6 @@ var promptConfirm = function (characterType, passwordLength) {
       characterType +
       " as the character type(s)"
   );
-  if (promptConfirm) {
-    window.alert("Thank you. You password will now be generated.");
-  } else {
-    window.alert("Sorry, please re-enter.");
-    generatePassword();
-  }
 };
 //////////////////////////////////////////////////////////////////////////
 
